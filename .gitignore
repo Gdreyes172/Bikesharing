@@ -24,7 +24,8 @@ pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
-*.egg
+201908-citibike-tripdata.csv
+201908-citibike-tripdata2.csv
 MANIFEST
 
 # PyInstaller
