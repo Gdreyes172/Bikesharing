@@ -1,15 +1,15 @@
 # Bikesharing
 This project uses Tableau to visualize data for a bike sharing starter in Des Moines.
 ## Overview: Using data based on a bikesharing company called CitiBikes in New York City, we formulated a capable visualization to present to possible stakeholders. The goal of the visualization was to show the promise that a similar company could have in a city like Des Moines.
-![Story_Pg1](https://github.com/Gdreyes172/Bikesharing/blob/main/Resources/story_page1)
+![Story_Pg1](https://github.com/Gdreyes172/Bikesharing/blob/main/Resources/images/story_page1.png)
 ---
 ## Results
 ---
-![Story_Pg2](https://github.com/Gdreyes172/Bikesharing/blob/main/Resources/story_page2.png)
+![Story_Pg2](https://github.com/Gdreyes172/Bikesharing/blob/main/Resources/images/story_page2.png)
 ---
-![Story_Pg3](https://github.com/Gdreyes172/Bikesharing/blob/main/Resources/story_page3.png)
+![Story_Pg3](https://github.com/Gdreyes172/Bikesharing/blob/main/Resources/images/story_page3.png)
 ---
-![Story_Pg4](https://github.com/Gdreyes172/Bikesharing/blob/main/Resources/story_page4.png)
+![Story_Pg4](https://github.com/Gdreyes172/Bikesharing/blob/main/Resources/images/story_page4.png)
 ---
 ## Tableau link: https://public.tableau.com/shared/9WBQKW65P?:display_count=n&:origin=viz_share_link
 ## The link above provides access to our Tableau Story. 
